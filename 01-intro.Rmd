@@ -1,0 +1,46 @@
+
+# What is MP/SOS? 
+
+Magic Planet is a presentation system that uses a projector from below to display images or video on a spherical screen.
+
+
+![Magic Planet at UMBC](magicplanet.jpg){height=400px}
+
+
+Science on a Sphere is a similar system created by NOAA that uses multiple projectors to display video and images on a larger spherical screen than Magic Planet.
+
+Both are commonly used to visualize earth systems and processes on a globe.
+
+
+
+## Processing Software: 
+
+You will need a software called "Processing" to implement the code that turns equirectangular visuals into azimuthal. 
+
+* Download the free software “Processing” from https://processing.org/. 
+* Once Processing is downloaded, make a folder called “Magic_Planet”
+* Save the Magic Planet code (Magic_Planet.pde)  from the Colab 2019 folder archived in the library in this folder
+* Save magicPlanetShader.glsl (from Don) in the Magic_Planet folder 
+* Create a “media” folder to put your media in 
+* Open Magic Planet code (it should automatically open in Processing by double clicking it)
+* Press the green play button 
+
+## How to Operate:
+
+The Magic Planet is located in the π² Lab in ITE on the second floor. 
+
+* Plug in HDMI cord 
+* Press the power button on the Magic Planet (below the sphere, labelled "On")
+
+Once you are displaying your media on the Magic Planet, you can either use your laptop keys or the remote.
+
+* Tab button can switch between azimuthal spherical view and equirectangular view (laptop only)
+* Forward key = skip to next “slide”
+* Back key = pause/play
+* Top key on remote (or enter button on keyboard) = start/stop
+
+
+ 
+
+
+

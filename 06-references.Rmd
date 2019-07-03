@@ -1,0 +1,18 @@
+# Applications
+
+Many videos and presentations for Magic Planet have centered around earth science or topics related to it, but Magic Planet can be used for a wide range of presentations: 
+
+* Historical applications: displaying maps of historical country borders, exploration routes, trade routes
+* Geographical applications: displaying countries and continents, geographical systems
+* Anthropological applications: displaying the movement of people 
+* Astronomical applications: Studying other planets and their environments
+* Biological applications: Studying how the eyes work, components of a cell, migration patterns of animals
+* Mathematical applications: Studying 2D planes, cross sections, spheres (circumference, etc)
+
+
+
+Product of UMBC Interdisciplinary CoLab
+1000 Hilltop Circle, Baltimore, MD 21250
+
+'`
+
